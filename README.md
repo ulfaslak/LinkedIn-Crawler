@@ -18,6 +18,6 @@ on the 1st of each month.
 #### Usage example
 $ python crawler.py "Electrical Engineering" ulfaslak@gmail.com mysupersecretpassword
 
-Important: Break the process by doing ctrl + c (multiple times is necessary).
+Important: Break the process by doing ctrl + c (multiple times if necessary).
 
 Author: Ulf Aslak
