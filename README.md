@@ -1,3 +1,5 @@
+# LinkedIn Crawler
+
 Crawl your outer (2nd + 3nd degree) LinkedIn network for visits.
 
 Provide search QUERY, USERNAME and PASSWORD, where QUERY should be a word
@@ -15,7 +17,7 @@ on the 1st of each month.
 
 Usage example
 -------------
-$ python crawler.py Medicine ulfaslak@gmail.com mysupersecretpassword
+$ python crawler.py "Electrical Engineering" ulfaslak@gmail.com mysupersecretpassword
 
 Important: Break the process by doing ctrl + c (multiple times is necessary).
 
